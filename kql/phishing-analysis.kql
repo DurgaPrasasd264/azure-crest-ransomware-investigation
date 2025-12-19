@@ -1,0 +1,3 @@
+Email
+| where link contains ".docm"
+| project timestamp, sender, recipient, subject, link
