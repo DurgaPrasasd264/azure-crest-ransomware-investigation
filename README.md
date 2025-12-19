@@ -17,6 +17,14 @@ phishing → malware execution → data encryption.
 - MITRE ATT&CK
 - Cyber Kill Chain
 
+## 📚 Reference Material
+The PDF included in the `reference/` directory contains
+the original educational investigation scenario used
+as a learning resource.
+
+All analysis, summaries, and conclusions in this repository
+are written independently for educational and portfolio use.
+
 ## 👨‍💻 Author
 Durga Prasad
 SOC / Blue Team Enthusiast
