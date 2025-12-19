@@ -1,0 +1,3 @@
+FileCreationEvents
+| where filename endswith ".scholopendra"
+| project timestamp, hostname, filename, path
